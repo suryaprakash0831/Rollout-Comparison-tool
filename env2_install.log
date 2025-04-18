@@ -1,0 +1,4 @@
+Rollout ALPHA_DB_SETUP installed 20230401-090000.
+Hot fix HF002 using controller script /data/wms/les/hotfixes/HF002/HF002 installed 20230401-091700.
+Hot fix CLIENT-MODULE-1.0.3_APP_SERVER using controller script /data/wms/les/hotfixes/CLIENT-MODULE-1.0.3_APP_SERVER/CLIENT-MODULE-1.0.3_APP_SERVER installed 20230401-093000.
+Rollout NETWORK_UPGRADE_V2 installed 20230401-094800.
